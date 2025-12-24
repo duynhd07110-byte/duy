@@ -1,0 +1,377 @@
+{
+  "tours": [
+    {
+      "id": "0",
+      "name": "Vịnh Hạ Long",
+      "featured": true,
+      "images": [
+        "https://static-images.vnncdn.net/files/publish/2022/7/27/ha-long-bay-1-852.jpg",
+        "https://www.homepaylater.vn/static/32205ffa846d1744316694ba1b3e9dad/3ba08/1_tren_vinh_co_nhieu_dao_voi_nhieu_hinh_dang_rieng_biet_db4ed3a432.jpg",
+        "https://hdttravel.com/wp-content/uploads/2019/08/dia-diem-du-lich-ha-long.jpg",
+        "https://xdcs.cdnchinhphu.vn/446259493575335936/2024/8/25/tour-du-lich-ha-long-52261hasthumb-1724561094431966416823.jpg"
+      ],
+      "description": {
+        "summary": "Khám phá Vịnh Hạ Long, di sản thiên nhiên thế giới, trên du thuyền 5 sao sang trọng. Tận hưởng cảnh quan kỳ vĩ của hàng ngàn hòn đảo đá vôi và tham gia các hoạt động thú vị như chèo kayak, thăm hang động.",
+        "itinerary": [
+          {
+            "day": 1,
+            "title": "Hà Nội - Vịnh Hạ Long - Hang Sửng Sốt",
+            "details": "Xe đón quý khách tại Hà Nội, khởi hành đi Hạ Long. Đến nơi, quý khách lên du thuyền, nhận phòng và ăn trưa. Buổi chiều, tham quan Hang Sửng Sốt - một trong những hang động đẹp nhất vịnh. Tối ăn tối và nghỉ đêm trên du thuyền."
+          },
+          {
+            "day": 2,
+            "title": "Chèo Kayak - Đảo Titop - Hà Nội",
+            "details": "Buổi sáng, quý khách có thể tham gia lớp học Taichi hoặc chèo thuyền kayak khám phá các hang động nhỏ. Sau đó, du thuyền đưa quý khách đến đảo Titop để leo núi và ngắm toàn cảnh vịnh. Ăn trưa trên du thuyền trước khi xe đưa quý khách trở về Hà Nội. Kết thúc chương trình."
+          }
+        ]
+      },
+      "price": "5000000",
+      "rating": 4.8
+    },
+    {
+      "id": "1",
+      "name": "Đà Lạt",
+      "featured": true,
+      "images": [
+        "https://booking.muongthanh.com/upload_images/images/H%60/thanh-pho-da-lat.jpg",
+        "https://www.dalattrip.com/dulich/media/2017/12/thanh-pho-da-lat.jpg",
+        "https://samtenhills.vn/wp-content/uploads/2024/11/kinh-nghiem-du-lich-da-lat-1-minh.jpg"
+      ],
+      "description": {
+        "summary": "Ghé thăm Đà Lạt, thành phố ngàn hoa với khí hậu mát mẻ quanh năm. Khám phá những địa danh nổi tiếng như Thung lũng Tình Yêu, Đồi chè Cầu Đất và thưởng thức ẩm thực độc đáo của phố núi.",
+        "itinerary": [
+          {
+            "day": 1,
+            "title": "Khám phá trung tâm thành phố",
+            "details": "Đến Đà Lạt, nhận phòng khách sạn. Buổi chiều, tham quan Hồ Xuân Hương, Vườn hoa thành phố. Tối tự do dạo chợ đêm Đà Lạt, thưởng thức các món ăn vặt nổi tiếng."
+          },
+          {
+            "day": 2,
+            "title": "Đồi chè Cầu Đất & các điểm check-in",
+            "details": "Sáng sớm săn mây tại Đồi chè Cầu Đất. Sau đó, tham quan các điểm nổi tiếng khác như Chùa Linh Phước, Ga Đà Lạt. Chiều trở về thành phố nghỉ ngơi."
+          }
+        ]
+      },
+      "price": "3000000",
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Sapa",
+      "featured": false,
+      "images": [
+        "https://booking.muongthanh.com/upload_images/images/H%60/sa-pa-thi-tran-trong-suong.jpg",
+        "https://www.kkday.com/vi/blog/wp-content/uploads/du-lich-sapa.jpg",
+        "https://mia.vn/media/uploads/blog-du-lich/kham-pha-sapa-vung-dat-bon-mua-may-ben-nguoi-1625576770.jpg"
+      ],
+      "description": {
+        "summary": "Chinh phục nóc nhà Đông Dương Fansipan và khám phá văn hóa các dân tộc thiểu số độc đáo giữa núi rừng Tây Bắc hùng vĩ.",
+        "itinerary": [
+          {
+            "day": 1,
+            "title": "Bản Cát Cát - Thác Bạc",
+            "details": "Tham quan bản Cát Cát của người H'Mông, tìm hiểu văn hóa và cuộc sống của người dân. Chiều tham quan Thác Bạc, một trong những thác nước đẹp nhất Sapa."
+          },
+          {
+            "day": 2,
+            "title": "Chinh phục Fansipan",
+            "details": "Trải nghiệm cáp treo lên đỉnh Fansipan, nóc nhà Đông Dương. Tận hưởng không khí trong lành và ngắm nhìn toàn cảnh dãy Hoàng Liên Sơn hùng vĩ."
+          }
+        ]
+      },
+      "price": "2800000",
+      "rating": 4.7
+    },
+    {
+      "id": "3",
+      "name": "Phú Quốc",
+      "featured": false,
+      "images": [
+        "https://file.hstatic.net/1000397717/file/08ae65742cda01e85a345a92e2744a2b_fc876b5a720744c1879735e2ffa8b695_grande.gif",
+        "https://dongtayland.vn/wp-content/smush-webp/2019/03/du-hoc-singapore-jcus-minh-hoa-phu-quoc-1024x576.jpg.webp",
+        "https://duan-sungroup.com/wp-content/uploads/2022/12/anh-nhin-toan-dao-hon-thom-xinh-dep.jpg"
+      ],
+      "description": {
+        "summary": "Thư giãn tại đảo ngọc với những bãi biển cát trắng, làn nước trong xanh và thưởng thức hải sản tươi ngon bậc nhất.",
+        "itinerary": [
+          {
+            "day": 1,
+            "title": "Khám phá Nam đảo",
+            "details": "Tham quan nhà tù Phú Quốc, Bãi Sao - một trong những bãi biển đẹp nhất. Chiều đi cáp treo Hòn Thơm, ngắm biển từ trên cao."
+          },
+          {
+            "day": 2,
+            "title": "Vui chơi tại VinWonders",
+            "details": "Dành cả ngày để khám phá công viên chủ đề lớn nhất Việt Nam VinWonders với hàng trăm trò chơi hấp dẫn cho mọi lứa tuổi."
+          }
+        ]
+      },
+      "price": "4500000",
+      "rating": 4.9
+    },
+    {
+      "id": "4",
+      "name": "Hội An",
+      "featured": false,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLJdIp-RMWhopeFBo6dkoNrPM9RAkiYEFwdQ&s",
+        "https://hoiancreativecity.com/uploads/images/thang%202-2023/hoi-an-gd659f3b8f_1920-1280x853.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQbq1PUIS5tEXuB7ilRouq9Oz4Npq6F8VZ2g&s"
+      ],
+      "description": {
+        "summary": "Dạo bước trong khu phố cổ lung linh đèn lồng, di sản văn hóa thế giới, và cảm nhận nhịp sống yên bình, cổ kính.",
+        "itinerary": [
+          {
+            "day": 1,
+            "title": "Dạo phố cổ",
+            "details": "Tham quan các di tích nổi tiếng như Chùa Cầu, nhà cổ Tấn Ký. Thưởng thức các món ăn đặc sản như Cao lầu, Mì Quảng. Tối đi thuyền trên sông Hoài và thả đèn hoa đăng."
+          }
+        ]
+      },
+      "price": "2500000",
+      "rating": 4.6
+    },
+    {
+      "id": "5",
+      "name": "Nha Trang",
+      "featured": false,
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnut_sQlxpCkoTo_7rU-wkZQ7-OjlmBC18yQ&s",
+        "https://media.vneconomy.vn/w800/images/upload/2025/05/16/1-1.jpg",
+        "https://images.vietnamtourism.gov.vn/en/images/2022/nhatrang.khoatran.jpg"
+      ],
+      "description": {
+        "summary": "Khám phá vịnh biển được mệnh danh là một trong những vịnh đẹp nhất thế giới, với các hoạt động lặn biển và vui chơi tại VinWonders.",
+        "itinerary": [
+          {
+            "day": 1,
+            "title": "Tour 4 đảo",
+            "details": "Tham gia tour 4 đảo nổi tiếng, lặn biển ngắm san hô, tham gia các hoạt động thể thao trên biển và thưởng thức tiệc rượu nổi trên biển."
+          },
+          {
+            "day": 2,
+            "title": "Tháp Bà Ponagar - Tắm bùn",
+            "details": "Tham quan Tháp Bà Ponagar, một công trình kiến trúc Chăm Pa cổ. Buổi chiều thư giãn với dịch vụ tắm bùn khoáng nóng nổi tiếng."
+          }
+        ]
+      },
+      "price": "3200000",
+      "rating": 4.4
+    }
+  ],
+  "promotions": [
+    {
+      "id": "0",
+      "name": "Khuyến mãi Chào Hè",
+      "image": "https://media.vietravel.com/images/News/bannertour-tet-2024-1200x400px.jpg",
+      "label": "Mới",
+      "price": "1.99",
+      "featured": true,
+      "description": "Giảm giá 20% cho các tour biển đặt trong tháng 6!"
+    }
+  ],
+  "leaders": [
+    {
+      "id": "0",
+      "name": "Nguyễn Văn An",
+      "image": "https://topviec.vn/wp-content/uploads/2023/10/huong-dan-vien-du-lich-2.jpg",
+      "designation": "Trưởng đoàn Du lịch",
+      "abbr": "CEO",
+      "featured": true,
+      "description": "Với 10 năm kinh nghiệm, anh An sẽ mang đến cho bạn những chuyến đi đáng nhớ và an toàn."
+    }
+  ],
+  "users": [
+    {
+      "id": "3b3f",
+      "username": "Duyheropro",
+      "password": "101104",
+      "firstname": "",
+      "lastname": "",
+      "email": "Duy021234@gmail.com",
+      "imageUrl": "http://192.168.1.231:3001/images/logo.png"
+    },
+    {
+      "id": "187d",
+      "username": "Duy1010",
+      "password": "1111",
+      "firstname": "",
+      "lastname": "",
+      "email": "Duy@mmga",
+      "imageUrl": "file:///data/user/0/host.exp.exponent/cache/ImagePicker/1a014225-cc8b-45c9-a3e6-cb94a20d0d8a.jpeg"
+    },
+    {
+      "id": "5f43",
+      "username": "Hieu",
+      "password": "123",
+      "firstname": "",
+      "lastname": "",
+      "email": "hieu.nt07171@sinhvien.hoasen.edu.vn",
+      "imageUrl": "file:///var/mobile/Containers/Data/Application/741E23C5-C1D6-492E-A5B3-30BF249C75A7/Library/Caches/ExponentExperienceData/@hieunt22/travel-go/ImagePicker/992A41B7-B072-43F3-B77A-6840101B2A65.png"
+    },
+    {
+      "id": "c749",
+      "username": "Duyheropro1",
+      "password": "Duyheropro",
+      "firstname": "",
+      "lastname": "",
+      "email": "Cxvs",
+      "imageUrl": "file:///data/user/0/host.exp.exponent/cache/ImagePicker/c389286a-ab96-415e-8f91-bbce6514073b.jpeg"
+    },
+    {
+      "id": "8170",
+      "username": "Duyheropro",
+      "password": "101104",
+      "firstname": "Duy",
+      "lastname": "Nguyee",
+      "email": "Duyxdndnsj",
+      "imageUrl": "file:///data/user/0/host.exp.exponent/cache/ImagePicker/373b06dd-ea9a-47ce-8846-41f80d4f1c81.jpeg"
+    },
+    {
+      "id": "feb0",
+      "username": "Dat",
+      "password": "123",
+      "firstname": "Thiện",
+      "lastname": "Đạt",
+      "email": "Hhhh",
+      "imageUrl": "http://192.168.1.24:3001/images/logo.png"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "e5cc",
+      "tourId": "2",
+      "userId": "5f43",
+      "guests": 2,
+      "transport": "Máy bay",
+      "date": "2025-12-23T12:57:52.581Z",
+      "price": 6600000
+    },
+    {
+      "id": "24b9",
+      "tourId": "4",
+      "userId": "5f43",
+      "guests": 6,
+      "transport": "Máy bay",
+      "date": "2025-12-28T13:35:09.000Z",
+      "price": 18000000
+    },
+    {
+      "id": "ccae",
+      "tourId": "0",
+      "userId": "5f43",
+      "guests": 1,
+      "transport": "Máy bay",
+      "date": "2025-12-24T14:44:00.000Z",
+      "price": 5500000
+    },
+    {
+      "id": "a370",
+      "tourId": "2",
+      "userId": "5f43",
+      "guests": 2,
+      "transport": "Máy bay",
+      "date": "2025-12-27T01:50:00.000Z",
+      "price": 6600000
+    },
+    {
+      "id": "6b0f",
+      "tourId": "2",
+      "userId": "5f43",
+      "guests": 2,
+      "transport": "Máy bay",
+      "date": "2025-12-26T02:14:00.000Z",
+      "price": 6600000
+    }
+  ],
+  "comments": [
+    {
+      "id": "0",
+      "tourId": "0",
+      "rating": 5,
+      "comment": "Chuyến đi thật tuyệt vời! Hướng dẫn viên rất nhiệt tình và am hiểu. Chắc chắn sẽ quay lại.",
+      "author": "Duyheropro",
+      "date": "2025-12-21T10:30:32.885Z"
+    },
+    {
+      "id": "07f5",
+      "tourId": "0",
+      "rating": 3.5,
+      "author": "Dat",
+      "comment": "Hơi đẹp",
+      "date": "2025-12-23T07:21:32.204Z"
+    },
+    {
+      "id": "10f9",
+      "tourId": "2",
+      "rating": 5,
+      "author": "Dat",
+      "comment": "Đẹp",
+      "date": "2025-12-23T07:23:16.520Z"
+    },
+    {
+      "id": "d2e7",
+      "tourId": "0",
+      "rating": 5,
+      "author": "Dat",
+      "comment": "Đẹp",
+      "date": "2025-12-23T07:30:14.010Z"
+    },
+    {
+      "id": "5537",
+      "tourId": "0",
+      "rating": 5,
+      "author": "Dat",
+      "comment": "Đẹp",
+      "date": "2025-12-23T07:36:06.811Z"
+    },
+    {
+      "id": "7e69",
+      "tourId": "0",
+      "rating": 5,
+      "author": "Dat",
+      "comment": "Đẹp",
+      "date": "2025-12-23T07:38:14.477Z"
+    },
+    {
+      "id": "bb23",
+      "tourId": "2",
+      "rating": 5,
+      "author": "Dat",
+      "comment": "Đẹp",
+      "date": "2025-12-23T07:39:50.125Z"
+    },
+    {
+      "id": "d3cb",
+      "tourId": "3",
+      "rating": 5,
+      "author": "Dat",
+      "comment": "Ok",
+      "date": "2025-12-23T07:40:29.848Z"
+    },
+    {
+      "id": "9fb4",
+      "tourId": "5",
+      "rating": 4,
+      "author": "Hieu",
+      "comment": "CŨNG TẠM",
+      "date": "2025-12-23T09:10:54.988Z"
+    },
+    {
+      "id": "177e",
+      "tourId": "2",
+      "rating": 5,
+      "author": "Hieu",
+      "comment": "Tốt",
+      "date": "2025-12-23T10:21:45.907Z"
+    },
+    {
+      "id": "ad35",
+      "tourId": "2",
+      "rating": 5,
+      "author": "Hieu",
+      "comment": "Chuyến đi tốt\n",
+      "date": "2025-12-23T13:24:45.679Z"
+    }
+  ]
+}
